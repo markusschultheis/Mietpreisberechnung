@@ -1,0 +1,3 @@
+class UngueltigeKilometerangabeAusnahme extends Exception {
+
+}
